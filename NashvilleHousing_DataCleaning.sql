@@ -1,6 +1,6 @@
 /*Cleaning Data 
 
-The NashvilleHousing table is due for a data cleaning. Among other things, the table contains attributes that contain multiple values
+The NashvilleHousing table is due for a data cleaning. Among other things, the table contains attributes that consists of multiple values
 such as PropertyAddress, which contains both address and city, and that is something that we want to aviod. 
 
 Every attribute should only be responsible for one value. 
