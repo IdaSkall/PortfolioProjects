@@ -13,7 +13,7 @@ order by 3,4
 
 
 ------------------------
--- Selecting data that we are going to be using, based on location and date
+-- Selecting data that we are going to be using based on location and date
 
 Select location, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject..CovidDeaths
